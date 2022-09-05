@@ -17,6 +17,9 @@ const app = async () => {
   const result = await Requests.requestQL(url_query, query);
 
   writeCSV(await process_data(result))
+
+  console.log("Done...");
+
 };
 
 app();
