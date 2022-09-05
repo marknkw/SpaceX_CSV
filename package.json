@@ -3,7 +3,7 @@
   "version": "V1",
   "description": "Gera um relatório em CSV, dos navios que estão com missões ativas - contendo os nomes e as missões dos navios. Um arquivo CSV é exportado e armazenado com os dados requisitados.",
   "main": "app.ts",
-  "repository": "",
+  "repository": "https://github.com/marknkw/SpaceX_CSV",
   "author": "Marcos Silveira Gonzalez Júnior",
   "license": "MIT",
   "dependencies": {
